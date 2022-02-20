@@ -18,7 +18,7 @@
         <!-- End Portfolio -->
 
         <Testimonial />
-        <!-- End Testimonail -->
+        <!-- End Testimonial -->
 
         <div class="waxon_tm_news" id="news">
             <div class="container">
