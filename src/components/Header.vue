@@ -76,15 +76,6 @@
                                         </li>
                                         <li>
                                             <a
-                                                href="#news"
-                                                class="scrollactive-item"
-                                            >
-                                                <span class="first">News</span>
-                                                <span class="second">News</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a
                                                 href="#contact"
                                                 class="scrollactive-item"
                                             >

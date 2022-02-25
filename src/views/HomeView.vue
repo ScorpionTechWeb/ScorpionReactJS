@@ -20,18 +20,6 @@
         <Testimonial />
         <!-- End Testimonial -->
 
-        <div class="waxon_tm_news" id="news">
-            <div class="container">
-                <div class="waxon_tm_main_title">
-                    <div class="title">
-                        <h3>Dernières articles<span class="bg">News</span></h3>
-                    </div>
-                </div>
-                <News />
-            </div>
-        </div>
-        <!-- End News -->
-
         <div class="waxon_tm_contact" id="contact">
             <div class="bg_image"></div>
             <div class="container">
@@ -84,7 +72,6 @@ import About from "../components/about/About.vue";
 import Service from "../components/services/Service.vue";
 import Portfolio from "../components/portfolio/Portfolio.vue";
 import Testimonial from "../components/testimonial/Testimonial.vue";
-import News from "../components/news/News.vue";
 import Contact from "../components/Contact.vue";
 import Map from "../components/Map.vue";
 import Footer from "../components/Footer.vue";
@@ -96,7 +83,6 @@ export default {
         Service,
         Portfolio,
         Testimonial,
-        News,
         Contact,
         Map,
         Footer,
