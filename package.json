@@ -26,7 +26,8 @@
         "vue-scroll-reveal": "^1.0.11",
         "vue-scrollactive": "^0.9.3",
         "vue2-touch-events": "^3.2.2",
-        "vuejs-scroll-fixed-header": "^1.0.3"
+        "vuejs-scroll-fixed-header": "^1.0.3",
+        "glob-parent": ">=5.1.2"
     },
     "devDependencies": {
         "@vue/cli-plugin-babel": "~4.5.0",
@@ -37,7 +38,8 @@
         "eslint-plugin-vue": "^6.2.2",
         "sass": "^1.49.8",
         "vue-template-compiler": "^2.6.11",
-        "webpack": "^4.0.0"
+        "webpack": "^4.0.0",
+        "glob-parent": ">=5.1.2"
     },
     "eslintConfig": {
         "root": true,
