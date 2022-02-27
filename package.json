@@ -27,7 +27,11 @@
         "vue-scrollactive": "^0.9.3",
         "vue2-touch-events": "^3.2.2",
         "vuejs-scroll-fixed-header": "^1.0.3",
-        "glob-parent": ">=5.1.2"
+        "glob-parent": ">=5.1.2",
+        "nth-check": ">=2.0.1",
+        "ansi-regex": ">=5.0.1",
+        "url-parse": ">=1.5.8",
+        "node-forge": ">=1.0.0"
     },
     "devDependencies": {
         "@vue/cli-plugin-babel": "~4.5.0",
@@ -39,7 +43,11 @@
         "sass": "^1.49.8",
         "vue-template-compiler": "^2.6.11",
         "webpack": "^4.0.0",
-        "glob-parent": ">=5.1.2"
+        "glob-parent": ">=5.1.2",
+        "nth-check": ">=2.0.1",
+        "ansi-regex": ">=5.0.1",
+        "url-parse": ">=1.5.8",
+        "node-forge": ">=1.0.0"
     },
     "eslintConfig": {
         "root": true,
